@@ -13,7 +13,8 @@ Questo repository raccoglie la soluzione Valbruna MM sviluppata su SAP Business 
 |----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | [valbruna.mm.rda.demo](https://github.com/RegestaItalia/valbruna.mm.rda.demo)     | Prototipo per l'applicazione Magazzino Ausiliario e wiki con tutte le informazioni raccolte sugli strumenti BTP. |
 | [valbruna.mm.btp.auxiliary-warehouse-requests](https://github.com/RegestaItalia/valbruna.mm.btp.auxiliary-warehouse-requests) | Applicazione CAP per la gestione delle richieste di magazzino ausiliario e integrazione SAP esterna. |
-| [valbruna.mm.btp.terraform](https://github.com/RegestaItalia/valbruna.mm.btp.terraform)                  | Automazione dell’infrastruttura SAP BTP e Cloud Foundry tramite Terraform.                        |
+| [valbruna.mm.btp.purchase-requests](https://github.com/RegestaItalia/valbruna.mm.btp.purchase-requests) | Applicazione CAP per la gestione delle Richieste di Acquisto (RDA) con workflow di approvazione multi-livello. |
+| [valbruna.mm.btp.terraform](https://github.com/RegestaItalia/valbruna.mm.btp.terraform)                  | Automazione dell'infrastruttura SAP BTP e Cloud Foundry tramite Terraform.                        |
 
 ---
 
